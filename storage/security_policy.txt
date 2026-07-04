@@ -1,0 +1,1 @@
+The corporate network architecture requires explicit multi-factor authentication. All backend servers must route connections through designated proxy routes. Engineering personnel are required to review access control privileges quarterly. Guest access credentials expire automatically after a 24-hour cycle. Hardcoding access keys inside source files is strictly prohibited.
